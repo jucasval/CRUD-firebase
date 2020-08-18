@@ -1,1 +1,1 @@
-CRUD firebase
+CRUD javascript con acceso a datos de Firebase
