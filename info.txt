@@ -1,0 +1,18 @@
+Objetivo Principal:
+    - Crear una aplicación que implemente un CRUD en javascript usando Firebase para los datos.
+
+Algunos datos importantes:
+    - CRUD es un mantenimiento completo.
+    - La C significa CREATE para crear un registro.
+    - La R significa READ para leer un registro.
+    - La U significa UPDATE para actualizar un registro.
+    - La D significa DELETE para borrar un registro.
+
+Seguiremos los siguientes pasos.
+    1.- Crear una BD con Firebase.
+    2.- Dar los permisos adecuados a la BD.
+    3.- Crear el proyecto básico con HTML5, CSS y Bootstrap.
+    4.- Permitir que se pueda crear un objeto JSON de convalidaciones (C).
+    5.- Mostrar todas las convalidaciones (R).
+    6.- Borrar una convalidación concreta (D).
+    7.- Realizar una modificación de una convalidación (U).
